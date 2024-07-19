@@ -7,4 +7,5 @@ We created multiple models to test the effectiveness of transfer learning vs Van
 
 Link to the dataset from Kaggle is found here: [Link](https://www.kaggle.com/datasets/puneet6060/intel-image-classification)
 
-If you're interested in the project the report is listed, with the code in this repository. 
+If you're interested in the project the report is listed. The code, model and weights is located on google drive. [Link](https://drive.google.com/drive/folders/1icnKmE9FvdptpU3hwBJKgERM_5Mo7BZt?usp=drive_link)
+
